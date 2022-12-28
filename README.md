@@ -8,7 +8,8 @@ Prepared By :
 | ------------- | ------------- |
 |    |   |
 | Crystal Lin Htet   | 2116846  |
-|    |   |
+|  Hani Arinah Binti Hairul Azam  |  2019774 |
+|  Hani Nursyamirah Binti Muhamat Halis  |  2016478 |
 | Faridah Ilyana Binti Ahmad Shariffuddin  | 2022144  |
 
 *Lecturer Dr Mohd Khairul Azmi B Hassan*
