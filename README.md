@@ -1,4 +1,4 @@
-# National Museum Tickets
+# The National Museum of Malaysia
 
 Group project
 
@@ -6,6 +6,7 @@ Prepared By :
 
 | NAME  | MATRIC NO. |
 | ------------- | ------------- |
+|    |   |
 | Crystal Lin Htet   | 2116846  |
 |    |   |
 | Faridah Ilyana Binti Ahmad Shariffuddin  | 2022144  |
@@ -21,7 +22,7 @@ The construction of the museum began in 1959 and has completed in August 1963. I
 
 ## Objective
 
-The objectives of the National Museum  are :
+The objectives of the National Museum are :
 
 - To carry out museum-related activities such as researching, collecting, recording and publishing all the treasures of the country's historical heritage;
 - Exhibiting and utilizing national historical heritage artifacts for community education towards identity building and national development, and;
