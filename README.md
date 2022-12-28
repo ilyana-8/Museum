@@ -1,8 +1,9 @@
 # Museum
 Group project
-sgfdwsfhdhgj
-ystwws
 
+
+
+## ERD Diagram
 
 ## Sequence Diagram
 
