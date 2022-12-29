@@ -37,4 +37,4 @@ The objectives of the National Museum are :
 
 ## Sequence Diagram
 
-![SD WAD](https://user-images.githubusercontent.com/121481219/209676756-df1a9f46-18d5-4748-bdb1-50b987cca1b0.jpg)
+![Untitled1](https://user-images.githubusercontent.com/121481219/209892114-784661ea-5e37-46c1-8a26-2d27ddf2c838.jpg)
