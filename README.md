@@ -47,7 +47,7 @@ The objectives of the National Museum are :
 
 ## ER Diagram
 
-![BOOKING3](https://user-images.githubusercontent.com/121481219/209892277-2afe4c5a-8680-4692-8685-dbc500e2a445.jpg)
+![BOOKING6](https://user-images.githubusercontent.com/121481219/209901925-105995c7-4801-4b8b-b764-8d7e5059f6dd.jpg)
 
 ## Sequence Diagram
 
