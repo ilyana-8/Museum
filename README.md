@@ -19,7 +19,7 @@ Prepared By :
 
 The history of museums in Malaysia began in 1883 when the British government established the Perak Museum, Taiping. This was followed by the Sarawak Museum in Kuching in 1888 and subsequently Selangor Museum in 1906.
 
-The construction of the museum began in 1959 and has completed in August 1963. It was officially declared opened by His Majesty, the Third Yang di-Petuan Agong, Tuanku Syed Putra Al-Haj Ibni Almarhum Syed Hassan Jamalullail. 
+The construction of the museum began in 1959 and has completed in August 1963. It was officially declared opened by His Majesty, the Third Yang di-Petuan Agong, Tuanku Syed Putra Al-Haj Ibni Almarhum Syed Hassan Jamalullail. The museum, which is next to the Perdana Lake Gardens, presents an overview of Malaysian history and culture. Its facade combines traditional Malay and contemporary elements. It acts as a repository for Malaysia's rich cultural and historical history.
 
 ## Objective
 
