@@ -1,48 +1,66 @@
-# The National Museum of Malaysia
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-Group project
+<p align="center">
+<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
 
-Prepared By : 
+## About Laravel
 
-| NAME  | MATRIC NO. |
-| ------------- | ------------- |
-|    |   |
-| Crystal Lin Htet   | 2116846  |
-|  Hani Arinah Binti Hairul Azam  |  2019774 |
-|  Hani Nursyamirah Binti Muhamat Halis  |  2016478 |
-| Faridah Ilyana Binti Ahmad Shariffuddin  | 2022144  |
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-*Lecturer Dr Mohd Khairul Azmi B Hassan*
+- [Simple, fast routing engine](https://laravel.com/docs/routing).
+- [Powerful dependency injection container](https://laravel.com/docs/container).
+- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
+- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
+- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
+- [Robust background job processing](https://laravel.com/docs/queues).
+- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
+Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Introduction
+## Learning Laravel
 
-  A museum is a building or institution that cares for and displays a collection of artifacts and other objects of artistic, cultural, historical, or scientific importance. Many public museums make these items available for public viewing through exhibits that may be permanent or temporary. The history of museums in Malaysia began in 1883 when the British government established the Perak Museum, Taiping. This was followed by the Sarawak Museum in Kuching in 1888 and subsequently Selangor Museum in 1906. The construction of the museum began in 1959 and has completed in August 1963. It was officially declared opened by His Majesty, the Third Yang di-Petuan Agong, Tuanku Syed Putra Al-Haj Ibni Almarhum Syed Hassan Jamalullail. The museum, which is next to the Perdana Lake Gardens, presents an overview of Malaysian history and culture. Its facade combines traditional Malay and contemporary elements. It acts as a repository for Malaysia's rich cultural and historical history.
+Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-Our web application is to attract local and foreign tourists to visit the National Museum. In order to do that, we develop a booking ticket web system to ease the tourists. Hence, the tourists do not have to worry and disapoint if they could not buy the ticket on their desired time. 
+You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
 
-## Objective
+If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-The objectives of our web application are :
+## Laravel Sponsors
 
-- To facilitate the tourist in booking museum ticket
-- Encourage tourist especially foreign tourist in visiting the museum
-- Help the museum staff to handle the physical ticket buying
-- Reduce the crowdedness at the ticket counter
+We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
-## Features and Functionalities
+### Premium Partners
 
-1. Navigation bar - To facilitate the user to the desired page.
-2. Home page - Briefly explain about the national museum and some infos about the event that will be held.
-3. About Us page - Detail explaination about the national museum with its location.
-4. Contact information - Phone number, email and social media.
-5. Book Ticket page - User needs to give some personal information such as first name, last name, phone number, email, the number of tickets and date.
-6. Gallery page - Include some images and explainations of the treasures and attractions that are being displayed in the national museum as the sneak peek for the users.
+- **[Vehikl](https://vehikl.com/)**
+- **[Tighten Co.](https://tighten.co)**
+- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
+- **[64 Robots](https://64robots.com)**
+- **[Cubet Techno Labs](https://cubettech.com)**
+- **[Cyber-Duck](https://cyber-duck.co.uk)**
+- **[Many](https://www.many.co.uk)**
+- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
+- **[DevSquad](https://devsquad.com)**
+- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
+- **[OP.GG](https://op.gg)**
+- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
+- **[Lendio](https://lendio.com)**
 
-## ER Diagram
+## Contributing
 
-![BOOKING6](https://user-images.githubusercontent.com/121481219/209901925-105995c7-4801-4b8b-b764-8d7e5059f6dd.jpg)
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
-## Sequence Diagram
+## Code of Conduct
 
-![Untitled1](https://user-images.githubusercontent.com/121481219/209892114-784661ea-5e37-46c1-8a26-2d27ddf2c838.jpg)
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+
+## Security Vulnerabilities
+
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+
+## License
+
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
