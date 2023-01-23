@@ -76,6 +76,14 @@ The objectives of our web application are :
 4. Booking Page
 5. Admin Page
 
+* The admin page is where the employee can log in to the system to see the booking details and also make a change to their profile. TThey are required to fill in their email and password during log in.
+
+![Log in admin](https://user-images.githubusercontent.com/121481219/213965065-4abba076-b644-45cc-b143-c677d8b66a6d.jpg)
+
+* Once they are logged in, they will be redirected to the admin's dashboard, where they can see a welcome message, their name and booking details. At the top right corner, there will be their name and an arrow where they will be redirected to their profile page. 
+
+![Dashboard](https://user-images.githubusercontent.com/121481219/213965740-38707021-d61a-4ffc-9b3e-2102e1083817.jpg)
+
 
 ## Challenges and Difficulties
 
