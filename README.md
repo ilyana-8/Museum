@@ -46,3 +46,12 @@ The objectives of our web application are :
 ## Sequence Diagram
 
 ![SEQUENCE1](https://user-images.githubusercontent.com/121481219/213950353-29290b7a-2b0b-478b-b535-d38c09993f6b.png)
+
+## Project System
+
+
+
+## Challenges and Difficulties
+
+* Poor communication because we just communicate through an online platform
+* Debugging problem where some errors are simple to fix, but many aren’t, resulting in lost development time and aggravation for us
