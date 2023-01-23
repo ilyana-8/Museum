@@ -52,6 +52,27 @@ The objectives of our web application are :
 1. Hompage
 2. About Us Page
 3. Gallery Page
+
+* This page displays four galleries in the National Museum which are Gallery A, B, C and D but without any brief explanation about those galleries.
+
+![Gallery Page](https://user-images.githubusercontent.com/121481219/213962092-fe732fea-b35a-4c24-9aa3-da1d93256131.jpg)
+
+* Gallery A page: This page displays pre history of Malaysia, including the pictures inside the gallery, explanation about the gallery and the collections during that time.
+
+![Gallery A](https://user-images.githubusercontent.com/121481219/213964244-df99065b-ad32-4881-808b-caab8a569a42.jpg)
+
+* Gallery B page: This page displays about Malay Kingdom, including the pictures inside the gallery, explanation about the gallery and the collections during that time.
+
+![Gallery B](https://user-images.githubusercontent.com/121481219/213964284-2f1cf0c9-9ea4-41cb-a7f2-5e1f1c58d692.jpg)
+
+* Gallery C page: This page displays about colonial era, including the pictures inside the gallery, explanation about the gallery and the collections during that time.
+
+![Gallery C](https://user-images.githubusercontent.com/121481219/213964368-82c079ca-3580-420b-95cf-da25c88d992d.jpg)
+
+* Gallery D page: This page displays about Malaysia today, including the pictures inside the gallery, explanation about the gallery and the collections during that time.
+
+![Gallery D](https://user-images.githubusercontent.com/121481219/213964428-93043724-8e55-4b7a-892f-ca4afd9fb495.jpg)
+
 4. Booking Page
 5. Admin Page
 
