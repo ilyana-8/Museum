@@ -73,14 +73,6 @@ The objectives of our web application are :
 
 ![Gallery D](https://user-images.githubusercontent.com/121481219/213964428-93043724-8e55-4b7a-892f-ca4afd9fb495.jpg)
 
-* Profile page: Employees can make changes to their accounts, such as the profile information and password on this page.
-
-![Profile](https://user-images.githubusercontent.com/121481219/214176538-561ca189-ace5-4932-b493-60dee7140315.jpg)
-
-* Dashboard page: This page displays the customer's data that booked the ticket.
-
-![bookingDetail](https://user-images.githubusercontent.com/121481219/214176628-cc7de6e3-5d36-4747-a1d8-6f187d0a491c.jpg)
-
 4. Booking Page
 5. Admin Page
 
@@ -91,6 +83,14 @@ The objectives of our web application are :
 * Once they are logged in, they will be redirected to the admin's dashboard, where they can see a welcome message, their name and booking details. At the top right corner, there will be their name and an arrow where they will be redirected to their profile page. 
 
 ![Dashboard](https://user-images.githubusercontent.com/121481219/213965740-38707021-d61a-4ffc-9b3e-2102e1083817.jpg)
+
+* Profile page: Employees can make changes to their accounts, such as the profile information and password on this page.
+
+![Profile](https://user-images.githubusercontent.com/121481219/214176538-561ca189-ace5-4932-b493-60dee7140315.jpg)
+
+* Dashboard page: This page displays the customer's data that booked the ticket.
+
+![bookingDetail](https://user-images.githubusercontent.com/121481219/214176628-cc7de6e3-5d36-4747-a1d8-6f187d0a491c.jpg)
 
 
 ## Challenges and Difficulties
