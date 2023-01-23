@@ -41,7 +41,7 @@ The objectives of our web application are :
 
 ## ER Diagram
 
-![BOOKING6](https://user-images.githubusercontent.com/121481219/209901925-105995c7-4801-4b8b-b764-8d7e5059f6dd.jpg)
+![ERDiagram](https://user-images.githubusercontent.com/121481219/214176446-7e3ca0b7-39ff-4dae-a346-8c8aa4514a4b.png)
 
 ## Sequence Diagram
 
@@ -72,6 +72,14 @@ The objectives of our web application are :
 * Gallery D page: This page displays about Malaysia today, including the pictures inside the gallery, explanation about the gallery and the collections during that time.
 
 ![Gallery D](https://user-images.githubusercontent.com/121481219/213964428-93043724-8e55-4b7a-892f-ca4afd9fb495.jpg)
+
+* Profile page: Employees can make changes to their accounts, such as the profile information and password on this page.
+
+![Profile](https://user-images.githubusercontent.com/121481219/214176538-561ca189-ace5-4932-b493-60dee7140315.jpg)
+
+* Dashboard page: This page displays the customer's data that booked the ticket.
+
+![bookingDetail](https://user-images.githubusercontent.com/121481219/214176628-cc7de6e3-5d36-4747-a1d8-6f187d0a491c.jpg)
 
 4. Booking Page
 5. Admin Page
