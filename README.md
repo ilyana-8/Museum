@@ -49,6 +49,11 @@ The objectives of our web application are :
 
 ## Project System
 
+1. Hompage
+2. About Us Page
+3. Gallery Page
+4. Booking Page
+5. Admin Page
 
 
 ## Challenges and Difficulties
