@@ -45,4 +45,4 @@ The objectives of our web application are :
 
 ## Sequence Diagram
 
-![Untitled1](https://user-images.githubusercontent.com/121481219/209892114-784661ea-5e37-46c1-8a26-2d27ddf2c838.jpg)
+![SEQUENCE1](https://user-images.githubusercontent.com/121481219/213950353-29290b7a-2b0b-478b-b535-d38c09993f6b.png)
