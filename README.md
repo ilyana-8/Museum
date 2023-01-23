@@ -49,7 +49,7 @@ The objectives of our web application are :
 
 ## Project System
 
-1. Hompage
+1. Homepage
 2. About Us Page
 3. Gallery Page
 
