@@ -61,6 +61,11 @@ The objectives of our web application are :
 
 
 2. About Us Page
+
+* About Us page explains about the history of National Museum as well as the plaque for the National Museum. There are some objctives of the museum with picture of artifacts in this page. 
+
+![about us](https://user-images.githubusercontent.com/121520663/214191941-ca26f395-4c56-48fe-b885-e60a766bd02e.jpg)
+
 3. Gallery Page
 
 * This page displays four galleries in the National Museum which are Gallery A, B, C and D but without any brief explanation about those galleries.
