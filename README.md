@@ -51,7 +51,7 @@ The objectives of our web application are :
 
 1. Homepage
 2. About Us Page
-* Abou Us page explains about the history of National Museum as well as the plaque and the objectives of the museum. There are pictures of museum and the plaque. 
+* About Us page explains about the history of National Museum as well as the plaque and the objectives of the museum. There are pictures of museum and the plaque. 
 
 3. Gallery Page
 
