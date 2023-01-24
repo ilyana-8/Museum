@@ -104,9 +104,9 @@ The objectives of our web application are :
 
 ![Profile](https://user-images.githubusercontent.com/121481219/214176538-561ca189-ace5-4932-b493-60dee7140315.jpg)
 
-* Dashboard page: This page displays the customer's data that booked the ticket.
+* Booking Details page: This page displays the customer's data that booked the ticket.
 
-![bookingDetail](https://user-images.githubusercontent.com/121481219/214176628-cc7de6e3-5d36-4747-a1d8-6f187d0a491c.jpg)
+![Booking Detail](https://user-images.githubusercontent.com/121481219/214186699-609bdf10-b8b3-4276-a8aa-2a58ee117f39.jpg)
 
 
 ## Challenges and Difficulties
