@@ -66,7 +66,7 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a href="/">Home</a></li>
-          <li><a href="#about">About</a></li>
+          <li><a href="/about">About</a></li>
           <!-- <li><a href="#services">Services</a></li> -->
           <!-- <li><a href="/gallery">Gallery</a></li> -->
           <!-- <li><a href="#team">Team</a></li> -->
@@ -134,7 +134,7 @@
           <h4>Links</h4>
           <ul>
             <li><a href="/">Home</a></li>
-            <li><a href="#">About us</a></li>
+            <li><a href="/about">About us</a></li>
             <li><a href="/gallery">Gallery</a></li>
             <li><a href="#">Terms of service</a></li>
             <li><a href="#">Privacy policy</a></li>
