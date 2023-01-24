@@ -53,9 +53,9 @@ The objectives of our web application are :
 
 * This page displays the homepage of the screen when you run the website
 
-![Screensho![Homepage up](https://user-images.githubusercontent.com/102199659/214184446-8ff8850e-b1b7-47ac-85eb-7ae1c952610a.png)
+![Homepage up](https://user-images.githubusercontent.com/102199659/214184446-8ff8850e-b1b7-47ac-85eb-7ae1c952610a.png)
 
-*When you scroll down the homepage it will display all the events that occured in the museum
+* When you scroll down the homepage it will display all the events that occured in the museum
 
 ![Home page down](https://user-images.githubusercontent.com/102199659/214185107-4f4d6fc4-b2d5-459d-b255-450e5a4acabe.png)
 
