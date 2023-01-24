@@ -7,10 +7,10 @@ Prepared By :
 | NAME  | MATRIC NO. |
 | ------------- | ------------- |
 |    |   |
-| Crystal Lin Htet   | 2116846  |
-|  Hani Arinah Binti Hairul Azam  |  2019774 |
-|  Hani Nursyamirah Binti Muhamat Halis  |  2016478 |
+| Hani Arinah Binti Hairul Azam   | 2019774  |
 | Faridah Ilyana Binti Ahmad Shariffuddin  | 2022144  |
+|  Hani Nursyamira Binti Muhamat Halis  |  2016478 |
+|  Crystal Lin Htet  |  2116846 |
 
 *Lecturer Dr Mohd Khairul Azmi B Hassan*
 
