@@ -85,7 +85,7 @@ The objectives of our web application are :
 
 4. Booking Page
 
-* This is the booking ticket page, it will diplay first name, last name, email phone number, nationality, date and numbere of tickets to book
+* This is the booking ticket page, it will diplay first name, last name, email, phone number, nationality, date and numbere of tickets to book
 
 ![Booking ticket](https://user-images.githubusercontent.com/102199659/214185703-ecc4682d-c474-4b2c-b322-10067b4bb083.png)
 
