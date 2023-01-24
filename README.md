@@ -50,9 +50,17 @@ The objectives of our web application are :
 ## Project System
 
 1. Homepage
-2. About Us Page
-* About Us page explains about the history of National Museum as well as the plaque and the objectives of the museum. There are pictures of museum and the plaque. 
 
+* This page displays the homepage of the screen when you run the website
+
+![Screensho![Homepage up](https://user-images.githubusercontent.com/102199659/214184446-8ff8850e-b1b7-47ac-85eb-7ae1c952610a.png)
+
+*When you scroll down the homepage it will display all the events that occured in the museum
+
+![Home page down](https://user-images.githubusercontent.com/102199659/214185107-4f4d6fc4-b2d5-459d-b255-450e5a4acabe.png)
+
+
+2. About Us Page
 3. Gallery Page
 
 * This page displays four galleries in the National Museum which are Gallery A, B, C and D but without any brief explanation about those galleries.
@@ -76,6 +84,12 @@ The objectives of our web application are :
 ![Gallery D](https://user-images.githubusercontent.com/121481219/213964428-93043724-8e55-4b7a-892f-ca4afd9fb495.jpg)
 
 4. Booking Page
+
+* This is the booking ticket page, it will diplay first name, last name, email phone number, nationality, date and numbere of tickets to book
+
+![Booking ticket](https://user-images.githubusercontent.com/102199659/214185703-ecc4682d-c474-4b2c-b322-10067b4bb083.png)
+
+
 5. Admin Page
 
 * The admin page is where the employee can log in to the system to see the booking details and also make a change to their profile. TThey are required to fill in their email and password during log in.
