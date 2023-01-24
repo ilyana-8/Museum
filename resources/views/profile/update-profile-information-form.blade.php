@@ -62,7 +62,7 @@ background:#eee;
             <h2 class="media-heading">Hani Hairul
               <!-- <small> - Profile</small> -->
             </h2>
-            <p class="lead">Department of Exhibition and Development<br>Museum Service Unit</p>
+            <p class="lead">Department of Exhibition and Development<br>Museum Service Unit<br>Employee ID: 42512</p>
             </div>
           </div>
         </div>

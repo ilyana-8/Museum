@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\BookingController;
 
 /*
 |--------------------------------------------------------------------------
@@ -44,6 +45,14 @@ Route::get('/galleryD', function() {
 Route::get('/booking', function() {
     return view('booking');
 });
+
+Route::get('/booking', [BookingController::class, 'index']);
+Route::resource('/bookings', BookingController::class);
+
+Route::get('/bookingDetail', [BookingController::class, 'bookd']);
+
+            
+
 
 Route::middleware([
     'auth:sanctum',

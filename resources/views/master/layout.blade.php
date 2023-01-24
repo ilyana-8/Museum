@@ -136,8 +136,8 @@
             <li><a href="/">Home</a></li>
             <li><a href="/about">About us</a></li>
             <li><a href="/gallery">Gallery</a></li>
-            <li><a href="#">Terms of service</a></li>
-            <li><a href="#">Privacy policy</a></li>
+            <li><a href="/booking">Buy Ticket</a></li>
+            <!-- <li><a href="#">Privacy policy</a></li> -->
           </ul>
         </div>
 

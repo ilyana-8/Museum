@@ -9,7 +9,7 @@
           <h2>Welcome to the <span>National Musuem</span></h2>
           <p>There are events that occurs at the museum sometimes and everyone are invited to participate in the event. These events can expose to people about the culture or the ethics about Malaysia.</p>
           <div class="d-flex justify-content-center justify-content-lg-start">
-            <a href="#about" class="btn-get-started">Get Started</a>
+            <a href="/about" class="btn-get-started">Get Started</a>
             <a href="https://www.youtube.com/watch?v=Zp6RXUTcbZk" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
           </div>
         </div>
@@ -25,7 +25,7 @@
 
           <div class="col-xl-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="icon-box">
-                <img src="assets/img/icon/Kraf Mahkota Arnab.jpg" height="230" width="230" alt="" class="image-fluid">
+                <img src="assets/img/Kraf Mahkota Arnab.jpg" height="230" width="230" alt="" class="image-fluid">
               {{-- <div class="icon"><i class="bi bi-easel"></i></div> --}}
               <h4 class="title"><a href="" class="stretched-link">Kraf Mahkota Arnab</a></h4>
               <div class="stretched-link">
@@ -46,7 +46,7 @@
 
           <div class="col-xl-3 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div class="icon-box">
-                <img src="assets/img/icon/Pameran Naga Extend_0.jpg" height="230" width="230" alt="" class="image-fluid">
+                <img src="assets/img/Pameran Naga Extend_0.jpg" height="230" width="230" alt="" class="image-fluid">
               {{-- <div class="icon"><i class="bi bi-gem"></i></div> --}}
               <h4 class="title"><a href="" class="stretched-link">World of Dragon: Myth and Legend</a></h4>
               <div class="stretched-link">
@@ -59,7 +59,7 @@
 
           <div class="col-xl-3 col-md-6" data-aos="fade-up" data-aos-delay="300">
             <div class="icon-box">
-                <img src="assets/img/icon/Poster Pameran Chetti.jpg" height="230" width="230" alt="" class="image-fluid">
+                <img src="assets/img/Poster Pameran Chetti.jpg" height="230" width="230" alt="" class="image-fluid">
               {{-- <div class="icon"><i class="bi bi-geo-alt"></i></div> --}}
               <h4 class="title"><a href="" class="stretched-link">Pameran Chetti</a></h4>
               <div class="stretched-link">
@@ -73,7 +73,7 @@
 
           <div class="col-xl-3 col-md-6" data-aos="fade-up" data-aos-delay="500">
             <div class="icon-box">
-                <img src="assets/img/icon/Poster Pameran HMS 2022.jpeg" height="230" width="230" alt="Avatar" class="image-fluid">
+                <img src="assets/img/Poster Pameran HMS 2022.jpeg" height="230" width="230" alt="Avatar" class="image-fluid">
               {{-- <div class="icon"><i class="bi bi-command"></i></div> --}}
               <h4 class="title"><a href="" class="stretched-link">100 YearsTrophy Exhibition of H.M.S Malaya</a></h4>
               <div class="myDIV"><div class="stretched-link">
