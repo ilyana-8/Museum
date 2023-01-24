@@ -17,9 +17,7 @@ Prepared By :
 
 ## Introduction
 
-  A museum is a building or institution that cares for and displays a collection of artifacts and other objects of artistic, cultural, historical, or scientific importance. Many public museums make these items available for public viewing through exhibits that may be permanent or temporary. The history of museums in Malaysia began in 1883 when the British government established the Perak Museum, Taiping. This was followed by the Sarawak Museum in Kuching in 1888 and subsequently Selangor Museum in 1906. The construction of the museum began in 1959 and has completed in August 1963. It was officially declared opened by His Majesty, the Third Yang di-Petuan Agong, Tuanku Syed Putra Al-Haj Ibni Almarhum Syed Hassan Jamalullail. The museum, which is next to the Perdana Lake Gardens, presents an overview of Malaysian history and culture. Its facade combines traditional Malay and contemporary elements. It acts as a repository for Malaysia's rich cultural and historical history.
-
-Our web application is to attract local and foreign tourists to visit the National Museum. In order to do that, we develop a booking ticket web system to ease the tourists. Hence, the tourists do not have to worry and disapoint if they could not buy the ticket on their desired time. 
+ Our web application is to attract local and foreign tourists to visit the National Museum. In order to do that, we develop a booking ticket web system to ease the tourists. Hence, the tourists do not have to worry and disapoint if they could not buy the ticket on their desired time. There is an admin page as well for the staff of the museum check all the bookings that have been made. Only the staff can login into the admin page. Besides, more information about the National Museum is provided and there are updates about the events that going to be held in the homepage. Thus, this website may facilitate the booking process of the tourists and the staff of the National Museum.
 
 ## Objective
 
