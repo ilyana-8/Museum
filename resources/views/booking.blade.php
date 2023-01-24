@@ -18,7 +18,7 @@
 
 #booking {
 	font-family: 'Montserrat', sans-serif;
-	background-image: url("museum.jpg");
+	background-image: url("../assets/img/museum.jpg");
 	background-size: cover;
 	background-position: center;
 }
